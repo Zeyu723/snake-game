@@ -37,7 +37,7 @@
 只需将仓库克隆到本地，然后在浏览器中打开`index.html`文件即可。
 
 ```
-git clone https://github.com/你的用户名/snake-game.git
+git clone https://github.com/Zeyu7233/snake-game.git
 cd snake-game
 ```
 
@@ -45,7 +45,7 @@ cd snake-game
 
 ## 在线游玩
 
-访问 [https://你的用户名.github.io/snake-game](https://你的用户名.github.io/snake-game) 即可在线游玩。
+访问 [https://zeyu7233.github.io/snake-game](https://zeyu7233.github.io/snake-game) 即可在线游玩。
 
 ## 许可
 
