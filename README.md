@@ -44,8 +44,8 @@ cd snake-game
 然后在浏览器中打开`index.html`文件。
 
 ## 在线游玩
-
-访问 [https://zeyu7233.github.io/snake-game](https://zeyu7233.github.io/snake-game) 即可在线游玩。
+    
+访问 [https://zeyu723.github.io/snake-game](https://zeyu723.github.io/snake-game) 即可在线游玩。
 
 ## 许可
 
